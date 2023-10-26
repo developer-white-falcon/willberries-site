@@ -104,6 +104,7 @@ body {
 
 .slider {
   position: relative;
+  overflow: hidden;
 }
 
 .slider-nav {
