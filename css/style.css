@@ -59,6 +59,7 @@ body {
 .slide {
   padding-top: 90px;
   padding-bottom: 110px;
+  overflow: hidden;
 }
 
 .slide-1 {
